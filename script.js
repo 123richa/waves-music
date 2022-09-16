@@ -18,7 +18,7 @@ songs=[
     {songName:"Outside",filePath:"songs/7.mp3",coverPath:"cover/9.jpg"},
     {songName:"Tightrope",filePath:"songs/8.mp3",coverPath:"cover/3.jpg"},
     {songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/9.jpg"},
-    /*{songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/4.jpg"},*/
+    {songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/4.jpg"},
 ]
 
 songItems.forEach((element, i)=>{
