@@ -9,7 +9,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 songs=[
-    {songName: "meri zindgi h tu", filePath:"songs/1.mp3",coverPath:"cover/6.jpg"},
+    {songName: "meri zindgi h tu", filePath:"songs/1.mp3",coverPath:"cover/3.jpg"},
     {songName: "Srivalli naina ma", filePath:"songs/2.mp3",coverPath:"cover/4.jpg"},
     {songName: "Oo Bolega Ya Oo Oo ", filePath:"songs/3.mp3",coverPath:"cover/9.jpg"},
     {songName:"Mast Nazron Se",filePath:"songs/4.mp3",coverPath:"cover/4.jpg"},
