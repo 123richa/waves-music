@@ -9,7 +9,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 songs=[
-    {songName: "meri zindgi h tu", filePath:"songs/1.mp3",coverPath:"cover1.jpg.jpg"},
+    {songName: "meri zindgi h tu", filePath:"songs/1.mp3",coverPath:"cover6.jpg.jpg"},
     {songName: "Srivalli naina ma", filePath:"songs/2.mp3",coverPath:"cover/4.jpg"},
     {songName: "Oo Bolega Ya Oo Oo ", filePath:"songs/3.mp3",coverPath:"cover/9.jpg"},
     {songName:"Mast Nazron Se",filePath:"songs/4.mp3",coverPath:"cover/4.jpg"},
@@ -18,7 +18,7 @@ songs=[
     {songName:"Outside",filePath:"songs/7.mp3",coverPath:"cover/9.jpg"},
     {songName:"Tightrope",filePath:"songs/8.mp3",coverPath:"cover/3.jpg"},
     {songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/9.jpg"},
-    {songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/4.jpg"},
+    /*{songName:"Dhokha",filePath:"songs/9.mp3",coverPath:"cover/4.jpg"},*/
 ]
 
 songItems.forEach((element, i)=>{
